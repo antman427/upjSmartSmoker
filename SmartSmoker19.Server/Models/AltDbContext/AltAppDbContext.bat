@@ -1,0 +1,1 @@
+dotnet ef dbcontext scaffold Name="DefaultConnection" Npgsql.EntityFrameworkCore.PostgreSQL -o Models/AltDbContext --context-dir Models/AltDbContext -c AltAppDbContext -f --use-database-names --no-pluralize -t meatsmokingguide -t recommendedwood -t meatwood -t currentstate -t desiredstate -t thermcam

@@ -1,0 +1,17 @@
+.sepButton {
+    padding: 2em;
+    justify-items: center;
+}
+
+.button {
+    display: flex;
+    align-items: center;
+    font-size: large;
+    padding: 1em;
+    margin: auto;
+    background-color: grey;
+    color: white;
+}
+.button:hover {
+    background-color: #111;
+  }

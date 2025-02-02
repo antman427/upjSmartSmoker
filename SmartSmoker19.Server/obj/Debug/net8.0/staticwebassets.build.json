@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "lpYHPN6iS85idYAwvtefUPP1IWkLrWxp6wx9pIEYIn8=",
+  "Source": "SmartSmoker19.Server",
+  "BasePath": "_content/SmartSmoker19.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Projects\\SmartSmoker19\\smartsmoker19.client\\smartsmoker19.client.esproj",
+      "Version": 2,
+      "Source": "smartsmoker19.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

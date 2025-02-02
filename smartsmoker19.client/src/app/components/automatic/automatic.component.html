@@ -1,0 +1,11 @@
+<div>
+  @for (item of [{title:'first'},{title:'second'}];
+    track item.title) {
+       <span>{{item.title}}</span>
+    }
+
+  <button (click)="getSelections()">Show Options</button>
+
+        
+
+</div>  
